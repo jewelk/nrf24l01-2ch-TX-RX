@@ -1,1 +1,0 @@
-# nrf24l01-2ch-TX-RX
